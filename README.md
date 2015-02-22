@@ -10,7 +10,7 @@ Other useful links:
 http://dublinked.com/datastore/by-category/transportation-infrastructure.php
 
 
-This script is a simplified version of one used on getthere.ie
-I've removed caching of results, it might be a good idea to add that back in yourself if you'll be making a lot of requests.
+This script is a simplified version of one used on getthere.ie;
+I've removed caching of results, and the script is called asynchronously on the live site. It might be a good idea to add back caching if you'll be making a lot of requests.
 
 You are welcome to add your own dublinked scripts to this repository in other languages, and if you want to collaborate on getthere.ie, give me a shout at eoghan@getthere.ie
